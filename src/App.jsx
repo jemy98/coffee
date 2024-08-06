@@ -1,4 +1,5 @@
 import React from 'react';
+import Navbar from './components/Navbar';
 import AOS from 'aos';
 
 const App = () => {
@@ -13,7 +14,9 @@ const App = () => {
   }, []);
 
   return (
-    <div>App</div>
+    <div className="bg-white dark:bg-gray-900 dark:text-white duration-200 overflow-x-hidden">
+      <Navbar />
+    </div>
   )
 }
 
