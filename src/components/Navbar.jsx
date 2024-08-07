@@ -1,5 +1,5 @@
 import React from 'react';
-// import Logo from "../../assets/coffee_logo.png"
+import Logo from "../assets/coffee_logo.png";
 import { FaCoffee } from "react-icons/fa";
 
 const Menu = [
@@ -31,7 +31,7 @@ const Navbar = () => {
                 href="#"
                 className="font-bold text-2xl sm:text-3xl flex justify-center items-center gap-2 tracking-wider font-cursive"
               >
-                {/* <img src={Logo} alt="Logo" className="w-14" /> */}
+                <img src={Logo} alt="Logo" className="w-14" />
                 Coffee Cafe
               </a>
             </div>
