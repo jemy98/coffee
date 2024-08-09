@@ -52,7 +52,7 @@ const Footer = () => {
           <div className="col-span-2 grid grid-cols-2 sm:grid-cols-3 md:pl-10">
             <div className="py-8 px-4">
               <h1 className="text-xl font-semibold sm:text-left mb-3">
-                Important Links
+                Links
               </h1>
               <ul className="space-y-3">
                 {FooterLinks.map((data, index) => (
