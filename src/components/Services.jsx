@@ -12,7 +12,7 @@ const ServicesData = [
   {
     id: 2,
     img: Img2,
-    name: "Americano",
+    name: "White Cappucino",
     description:
       "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet",
     aosDelay: "300",
@@ -20,7 +20,7 @@ const ServicesData = [
   {
     id: 3,
     img: Img2,
-    name: "Cappuccino",
+    name: "Americano",
     description:
       "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet",
     aosDelay: "500",
