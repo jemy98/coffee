@@ -36,7 +36,7 @@ const Banner = () => {
                   data-aos="fade-up"
                   className="text-3xl sm:text-4xl font-bold font-cursive"
                 >
-                  Premium Blend Coffee
+                  Premium White Coffee
                 </h1>
                 <p
                   data-aos="fade-up"
