@@ -42,9 +42,12 @@ const Banner = () => {
                   data-aos="fade-up"
                   className="text-sm text-gray-500 tracking-wide leading-5"
                 >
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Eaque reiciendis inventore iste ratione ex alias quis magni at
-                  optio
+                  Premium white coffee typically refers to a type of coffee made
+                  from high-quality, lightly roasted coffee beans. Unlike
+                  regular coffee, which is roasted until the beans turn dark
+                  brown, white coffee is roasted at a lower temperature for a
+                  shorter period. This results in a lighter color, milder taste,
+                  and less bitterness.
                 </p>
 
                 <div className="grid grid-cols-2 gap-6">
