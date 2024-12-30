@@ -5,13 +5,13 @@ const TestimonialData = [
   {
     id: 1,
     name: "Dilshad",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    text: "This coffee shop truly knows how to craft the perfect cup! Whether it’s their black or white coffee, every cup is made with precision and love. The attention to detail and quality of the beans make it the best coffee experience I’ve ever had!",
     img: "https://picsum.photos/101/101",
   },
   {
     id: 2,
     name: "Sabir ali",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    text: "The black coffee here is a masterpiece for true coffee lovers! It's bold, rich, and perfectly brewed to highlight the natural flavors of the beans. Each sip feels like a pure coffee experience—simple, yet incredibly satisfying.",
     img: "https://picsum.photos/102/102",
   },
   {
@@ -23,7 +23,7 @@ const TestimonialData = [
   {
     id: 5,
     name: "Satya Narayan",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    text: "Their white coffee is exceptional! Smooth, nutty, and with a subtle sweetness that’s so comforting. It’s perfect for those who prefer a milder and less bitter coffee experience. Definitely my go-to option!",
     img: "https://picsum.photos/103/103",
   },
 ];
