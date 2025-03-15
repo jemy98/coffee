@@ -4,19 +4,19 @@ import Slider from "react-slick";
 const TestimonialData = [
   {
     id: 1,
-    name: "Dilshad",
+    name: "Edward Elric",
     text: "This coffee shop truly knows how to craft the perfect cup! Whether it’s their black or white coffee, every cup is made with precision and love. The attention to detail and quality of the beans make it the best coffee experience I’ve ever had!",
     img: "https://picsum.photos/101/101",
   },
   {
     id: 2,
-    name: "Sabir ali",
+    name: "Steven Ali",
     text: "The black coffee here is a masterpiece for true coffee lovers! It's bold, rich, and perfectly brewed to highlight the natural flavors of the beans. Each sip feels like a pure coffee experience—simple, yet incredibly satisfying.",
     img: "https://picsum.photos/102/102",
   },
   {
     id: 3,
-    name: "Dipankar kumar",
+    name: "Roman Dimitry",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
     img: "https://picsum.photos/104/104",
   },
