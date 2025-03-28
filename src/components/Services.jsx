@@ -6,7 +6,7 @@ const ServicesData = [
     img: Img2,
     name: "Espresso",
     description:
-      "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet.",
+      "Espresso adalah kopi pekat yang dibuat dengan mengekstraksi air panas bertekanan tinggi melalui bubuk kopi halus. Memiliki rasa kuat, aroma tajam, dan menjadi dasar berbagai minuman kopi lainnya.",
     aosDelay: "100",
   },
   {
@@ -14,7 +14,7 @@ const ServicesData = [
     img: Img2,
     name: "White Cappucino",
     description:
-      "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet",
+      "White Cappuccino adalah varian cappuccino yang lebih ringan dan creamy. Terbuat dari satu shot espresso yang dipadukan dengan susu panas berbusa, menghasilkan rasa yang lembut dan seimbang.",
     aosDelay: "300",
   },
   {
@@ -22,7 +22,7 @@ const ServicesData = [
     img: Img2,
     name: "Americano",
     description:
-      "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet",
+      "Americano adalah minuman kopi yang dibuat dengan menambahkan air panas ke dalam satu atau dua shot espresso. Rasanya lebih ringan dari espresso, namun tetap kaya aroma dan cita rasa.",
     aosDelay: "500",
   },
 ];
