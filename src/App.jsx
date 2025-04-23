@@ -1,11 +1,12 @@
-import React from 'react';
+import React,{useEffect} from 'react';
+import AOS from 'aos';
+import "aos/dist/aos.css"
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Banner from './components/Banner';
 import Testimonial from './components/Testimonial';
 import Services from './components/Services';
 import Footer from './components/Footer';
-import AOS from 'aos';
 
 const App = () => {
   React.useEffect(() => {

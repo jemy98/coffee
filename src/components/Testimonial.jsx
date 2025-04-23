@@ -17,7 +17,7 @@ const TestimonialData = [
   {
     id: 3,
     name: "Roman Dimitry",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    text: "The espresso is strong made by extracting hot water under high pressure through finely ground coffee. It has a strong taste, a sharp aroma, and is the base for many other coffee drinks.",
     img: "https://picsum.photos/104/104",
   },
   {

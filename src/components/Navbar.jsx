@@ -22,17 +22,17 @@ const Menu = [
 const Navbar = () => {
   return (
     <>
-      <div className="bg-gradient-to-r from-secondary to-secondary/90 shadow-md bg-gray-900 text-white">
+      <div className="shadow-md bg-gray-700 text-white">
         <div className="container py-2">
           <div className="flex justify-between items-center">
             {/* Logo section */}
-            <div data-aos="fade-down" data-aos-once="true">
+            <div data-aos="fade-down" data-aos-once="true" data-aos-delay="300">
               <a
                 href="#"
                 className="font-bold text-2xl sm:text-3xl flex justify-center items-center gap-2 tracking-wider font-cursive"
               >
                 <img src={Logo} alt="Logo" className="w-14" />
-                Coffee Cafe
+                Coffee Rek
               </a>
             </div>
 
